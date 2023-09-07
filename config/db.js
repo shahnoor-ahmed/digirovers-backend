@@ -3,7 +3,7 @@ mongoose.set('strictQuery', false)
 const DBConnect = () => {
   try {
     const conn = mongoose.connect(
-      "mongodb+srv://hhhh7777:8BJTPc7ibbk7k9g@cluster0.bzp21vp.mongodb.net/?retryWrites=true&w=majority",
+      "mongodb+srv://rishabhsachan8604:RakdFqKLlfrxM4M3@cluster0.ixr71ml.mongodb.net/uploadData",
       {
         useNewUrlParser: true,
         useUnifiedTopology: true,
